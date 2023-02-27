@@ -10,6 +10,9 @@
 - For the comment section i have made it as nested upto N level (inspired by Reddit's Comment section)
 - There is still some additions i want to make to this project and will do so subsequently.
 
+# Live Video
+https://youtu.be/MTTjUiWF5RY
+
 # How to use this project
 - This project is bootsrapped with CRA(create react app) - You can clone or zip download this repo - After that just make an npm install in your local folder. - To run it use npm start.
 # REACT TEMPLATE
